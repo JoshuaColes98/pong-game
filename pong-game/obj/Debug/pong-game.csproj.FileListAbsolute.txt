@@ -1,0 +1,10 @@
+C:\repos\pong-game\pong-game\bin\Debug\pong-game.exe.config
+C:\repos\pong-game\pong-game\bin\Debug\pong-game.exe
+C:\repos\pong-game\pong-game\bin\Debug\pong-game.pdb
+C:\repos\pong-game\pong-game\obj\Debug\pong-game.csproj.AssemblyReference.cache
+C:\repos\pong-game\pong-game\obj\Debug\pong_game.Properties.Resources.resources
+C:\repos\pong-game\pong-game\obj\Debug\pong-game.csproj.GenerateResource.cache
+C:\repos\pong-game\pong-game\obj\Debug\pong-game.csproj.CoreCompileInputs.cache
+C:\repos\pong-game\pong-game\obj\Debug\pong-game.exe
+C:\repos\pong-game\pong-game\obj\Debug\pong-game.pdb
+C:\repos\pong-game\pong-game\obj\Debug\pong_game.Pong.resources
